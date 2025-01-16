@@ -1,0 +1,6 @@
+{
+  "numpy": "1.23",
+  "c_compiler": "vs2019",
+  "channel_targets": "defaults",
+  "target_platform": "win-64"
+}
